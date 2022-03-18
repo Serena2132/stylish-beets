@@ -1,0 +1,75 @@
+html {
+  box-sizing: border-box;
+  background-color: #c9b5ab;
+  font-family: "PT Serif", serif;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+img {
+  width: 100%;
+  align-content: center;
+}
+
+h1, h2 {
+  color: #3f1622;
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+nav ol {
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+  font-size: 1.125rem;
+  list-style-type: none;
+}
+
+figure {
+  text-align: center;
+  font-style: italic;
+}
+
+.date {
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+a {
+  color: #8f2440;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3f1622;
+  text-decoration: underline;
+}
+
+ol {
+  list-style-type: lower-greek;
+}
+
+ul {
+  list-style-type: circle;
+  font-size: 0.8rem;
+}
+
+blockquote p {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+blockquote cite {
+  font-size: 0.8rem;
+}
+
+blockquote strong {
+  font-weight: normal;
+}
+
+dt {
+  font-weight: bold;
+}

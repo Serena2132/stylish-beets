@@ -54,16 +54,11 @@ ol {
 
 ul {
   list-style-type: circle;
-  font-size: 0.8rem;
 }
 
 blockquote p {
   font-size: 1.5rem;
   font-style: italic;
-}
-
-blockquote cite {
-  font-size: 0.8rem;
 }
 
 blockquote strong {
